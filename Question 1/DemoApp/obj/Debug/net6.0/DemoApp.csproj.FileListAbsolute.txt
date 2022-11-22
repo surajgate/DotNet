@@ -1,0 +1,15 @@
+D:\Dotnet Exam\DemoApp\bin\Debug\net6.0\DemoApp.exe
+D:\Dotnet Exam\DemoApp\bin\Debug\net6.0\DemoApp.deps.json
+D:\Dotnet Exam\DemoApp\bin\Debug\net6.0\DemoApp.runtimeconfig.json
+D:\Dotnet Exam\DemoApp\bin\Debug\net6.0\DemoApp.dll
+D:\Dotnet Exam\DemoApp\bin\Debug\net6.0\DemoApp.pdb
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.csproj.AssemblyReference.cache
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfoInputs.cache
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfo.cs
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.csproj.CoreCompileInputs.cache
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.dll
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\refint\DemoApp.dll
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.pdb
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\DemoApp.genruntimeconfig.cache
+D:\Dotnet Exam\DemoApp\obj\Debug\net6.0\ref\DemoApp.dll
